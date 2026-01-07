@@ -154,12 +154,12 @@
     },
     "repository": {
         "type": "git",
-        "url": "https://github.com/jupyterlab/jupyterlab-git.git"
+        "url": "https://github.com/dofaromg/jupyterlab-git.git"
     },
     "bugs": {
-        "url": "https://github.com/jupyterlab/jupyterlab-git/issues"
+        "url": "https://github.com/dofaromg/jupyterlab-git/issues"
     },
-    "homepage": "https://github.com/jupyterlab/jupyterlab-git",
+    "homepage": "https://github.com/dofaromg/jupyterlab-git",
     "publishConfig": {
         "access": "public"
     },
