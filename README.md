@@ -210,7 +210,7 @@ The `jlpm` command is JupyterLab's pinned version of
 
 ```bash
 # Clone the repo to your local environment
-git clone https://github.com/jupyterlab/jupyterlab-git.git
+git clone https://github.com/dofaromg/jupyterlab-git.git
 # Change directory to the jupyterlab-git directory
 cd jupyterlab-git
 # Install package in development mode
